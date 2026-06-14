@@ -1,10 +1,8 @@
 # KJSCE Complete Study Material (SVU-2025 syllabus)
 
-Notes, slides, and experiment files for **Semesters 1 & 2** at KJSCE / KJSSE (K. J. Somaiya School of Engineering), compiled from multiple sources. All notes up to Sem 2 are uploaded — more subjects, semesters, and resources will be added over time.
+Notes, slides, and experiment files for **Semesters 1 & 2** at KJSSE (K. J. Somaiya School of Engineering), compiled from multiple sources.
 
 > 🌐 **Browse everything in a cleaner interface:** [kjsse-notes.vercel.app](https://kjsse-notes.vercel.app)
->
-> 📦 The PDFs are stored with [Git LFS](https://git-lfs.com) — open any file and hit **Download**, or use the website above, to view it.
 
 ## 🗂️ Contents
 
