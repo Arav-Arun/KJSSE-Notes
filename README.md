@@ -4,8 +4,8 @@ Notes, slides, and experiment files for **Semesters 1 & 2** at KJSSE (K. J. Soma
 
 ## 🗂️ Contents
 
-- **[Sem 1](./Sem%201)** — AM-1, Physics, Chemistry, BEE, ED, SPM, Biology, PBL
-- **[Sem 2](./Sem%202)** — AM-2, ASCT / ASET / EM, DLD, OOPM, PCS
+- **[Sem 1](./Sem%201)** - AM-1, Physics, Chemistry, BEE, ED, SPM, Biology, PBL
+- **[Sem 2](./Sem%202)** - AM-2, ASCT, DLD, OOPM, PCS
 - **[Basket Courses](./Basket%20Courses)**
 - **[Engineering Books](./Engineering%20Books)**
 
