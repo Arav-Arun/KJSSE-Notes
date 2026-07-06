@@ -2,8 +2,6 @@
 
 Notes, slides, and experiment files for **Semesters 1 & 2** at KJSSE (K. J. Somaiya School of Engineering), compiled from multiple sources.
 
-> 🌐 **Browse everything in a cleaner interface:** [kjsse-notes.vercel.app](https://kjsse-notes.vercel.app)
-
 ## 🗂️ Contents
 
 - **[Sem 1](./Sem%201)** — AM-1, Physics, Chemistry, BEE, ED, SPM, Biology, PBL
